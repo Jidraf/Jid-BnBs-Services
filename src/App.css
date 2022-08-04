@@ -1,0 +1,26 @@
+body{
+  background-color: beige;
+}
+.jerry{
+display: flex;
+ /* justify-content: space-around; */
+ align-items: flex-start;
+ min-height: 18%;
+ background: yellow;
+ color: black;
+ font-size: 170%;
+ 
+}
+  
+
+.NavBar{
+  position: relative;
+}
+.NavBar ul li{
+  display: inline-block;
+  margin-left: 75px;
+}
+.NavBar ul li a{
+  color: rgb(95, 134, 91);
+  font-size: 30px;
+}
